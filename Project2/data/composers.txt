@@ -24,7 +24,8 @@ North, A.
 Riddle, N.	
 Bernstein, E.	
 Rosenthal, L.	
-Fox, C.	Hefti, N.	
+Fox, C.	
+Hefti, N.	
 Mizzy, V.	
 Williams, J.	
 Legrand, M.	
